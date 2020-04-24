@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESIP Climate Xplorers</title>
+    <link>https://climatechangexplorers.github.io/</link>
+      <atom:link href="https://climatechangexplorers.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>ESIP Climate Xplorers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://climatechangexplorers.github.io/images/icon_hube28440ce8a4c7d0f16a7996ddae81bd_10522_512x512_fill_lanczos_center_2.png</url>
+      <title>ESIP Climate Xplorers</title>
+      <link>https://climatechangexplorers.github.io/</link>
+    </image>
+    
+  </channel>
+</rss>
